@@ -32,5 +32,15 @@ How to Test:
 ruff check .
 pytest -v
 
+Files Used:
+__init__.py
+test_business_rules.py
+.gitignore
+README.md
+business_rules.py
+commands.md
+main.py
+requirements.txt
+
 AI Use Statement:
 No AI was used to complete this project. Only to answer problems that helped make the code work; no copy-and-paste AI. 
